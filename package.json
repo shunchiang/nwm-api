@@ -1,0 +1,15 @@
+{
+  "name": "nwmproject",
+  "version": "1.0.0",
+  "description": "nwm test project app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Shun Chiang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.2.6"
+  }
+}
